@@ -97,6 +97,3 @@ versions/
 saves/
 ```
 
-## License
-
-Add the license of your choice for the scripts (for example MIT). It covers only the scripts in this repo, not Minecraft.
